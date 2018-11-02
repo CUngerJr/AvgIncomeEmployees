@@ -1,0 +1,20 @@
+E:\CSC101-02\Average Income of Employees\Average Income of Employees\bin\Debug\Average Income of Employees.exe.config
+E:\CSC101-02\Average Income of Employees\Average Income of Employees\bin\Debug\Average Income of Employees.exe
+E:\CSC101-02\Average Income of Employees\Average Income of Employees\bin\Debug\Average Income of Employees.pdb
+E:\CSC101-02\Average Income of Employees\Average Income of Employees\bin\Debug\Average Income of Employees.xml
+E:\CSC101-02\Average Income of Employees\Average Income of Employees\obj\Debug\Average_Income_of_Employees.Form1.resources
+E:\CSC101-02\Average Income of Employees\Average Income of Employees\obj\Debug\Average_Income_of_Employees.Resources.resources
+E:\CSC101-02\Average Income of Employees\Average Income of Employees\obj\Debug\Average Income of Employees.vbproj.GenerateResource.Cache
+E:\CSC101-02\Average Income of Employees\Average Income of Employees\obj\Debug\Average Income of Employees.exe
+E:\CSC101-02\Average Income of Employees\Average Income of Employees\obj\Debug\Average Income of Employees.xml
+E:\CSC101-02\Average Income of Employees\Average Income of Employees\obj\Debug\Average Income of Employees.pdb
+E:\CSC101-02\Assignments\Average Income of Employees\Average Income of Employees\bin\Debug\Average Income of Employees.exe.config
+E:\CSC101-02\Assignments\Average Income of Employees\Average Income of Employees\obj\Debug\Average Income of Employees.exe
+E:\CSC101-02\Assignments\Average Income of Employees\Average Income of Employees\obj\Debug\Average Income of Employees.xml
+E:\CSC101-02\Assignments\Average Income of Employees\Average Income of Employees\obj\Debug\Average Income of Employees.pdb
+E:\CSC101-02\Assignments\Average Income of Employees\Average Income of Employees\bin\Debug\Average Income of Employees.exe
+E:\CSC101-02\Assignments\Average Income of Employees\Average Income of Employees\bin\Debug\Average Income of Employees.pdb
+E:\CSC101-02\Assignments\Average Income of Employees\Average Income of Employees\bin\Debug\Average Income of Employees.xml
+E:\CSC101-02\Assignments\Average Income of Employees\Average Income of Employees\obj\Debug\Average_Income_of_Employees.Form1.resources
+E:\CSC101-02\Assignments\Average Income of Employees\Average Income of Employees\obj\Debug\Average_Income_of_Employees.Resources.resources
+E:\CSC101-02\Assignments\Average Income of Employees\Average Income of Employees\obj\Debug\Average Income of Employees.vbproj.GenerateResource.Cache
